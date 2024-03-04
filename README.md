@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis
 Natural Language Processing Project
 
 Twitter Sentiment Analysis project employs Natural Language Processing (NLP) 
